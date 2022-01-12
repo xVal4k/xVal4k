@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & web developing
 - 🌱 I’m currently learning javascript, HTML & CSS
 - 💞️ I’m looking to collaborate on "null"
-- 📫 How to reach me... you can't :)
+- 📫 How to reach me... you can't...
 
 <!---
 xVal4k/xVal4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
